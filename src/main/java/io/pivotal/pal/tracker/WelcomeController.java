@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /*
-    Route: pal-tracker-wacky-nyala.cfapps.io
+    Route: pal-tracker-grouchy-gorilla.cfapps.io
     cf push pal-tracker -p pal-tracker.jar --random-route
  */
 @RestController
