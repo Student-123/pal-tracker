@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
        JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
        GITHUB_OAUTH_TOKEN
        GITHUB_USERNAME
+       EMPTY_PUSH
  */
 @RestController
 public class WelcomeController {
